@@ -42,3 +42,5 @@ module seg7_display(
             default: seg = 8'hFF;
         endcase
     end
+endmodule
+
