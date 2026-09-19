@@ -1,3 +1,4 @@
+[VERILOG_FPGA_Report.pdf](https://github.com/user-attachments/files/32414422/VERILOG_FPGA_Report.pdf)
 # Verilog & FPGA Lab: Digital Systems
 
 Eleven digital design modules in Verilog, from basic combinational logic through to FPGA display drivers, done during a VLSI Design summer training program at Jadavpur University's IC Design and Fabrication Centre, targeting a Xilinx Artix-7 (Nexys 4) board.
